@@ -1,0 +1,793 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3054 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Projects\UnityPlugin\UnityProject\main_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Projects\UnityPlugin\UnityProject\main_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Projects\UnityPlugin\UnityProject\main_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Projects\UnityPlugin\UnityProject\main_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/.\C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/.\C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/libC:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/.\libC:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/libC:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/.\C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/.\C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/libC:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/.\libC:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/libC:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/.\C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/.\C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/libC:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/.\libC:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+Fallback handler could not load library C:/Projects/UnityPlugin/UnityProject/main_Data/Mono/libC:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: C:/Projects/UnityPlugin/UnityProject/main_Data/Plugins/UnityTexture.dll
+  at (wrapper managed-to-native) PluginLoader:PrintHello ()
+  at PluginLoader.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

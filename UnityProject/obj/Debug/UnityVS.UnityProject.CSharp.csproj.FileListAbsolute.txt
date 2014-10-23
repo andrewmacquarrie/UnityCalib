@@ -1,0 +1,9 @@
+C:\Projects\UnityPlugin\UnityProject\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Projects\UnityPlugin\UnityProject\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Projects\UnityPlugin\UnityProject\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Projects\UnityPlugin\UnityProject\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Projects\UnityPlugin\UnityProject\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Projects\UnityPlugin\UnityProject\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Projects\UnityPlugin\UnityProject\obj\Debug\UnityVS.UnityProject.CSharp.csprojResolveAssemblyReference.cache
+C:\Projects\UnityPlugin\UnityProject\obj\Debug\Assembly-CSharp.dll
+C:\Projects\UnityPlugin\UnityProject\obj\Debug\Assembly-CSharp.pdb

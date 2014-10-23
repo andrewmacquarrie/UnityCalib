@@ -1,0 +1,29 @@
+﻿Build started 23/10/2014 14:02:58.
+     1>Project "C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\TexturePlugin.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D TEXTUREPLUGIN_EXPORTS /D _VC80_UPGRADE=0x0710 /D _WINDLL /D _MBCS /GF /Gm /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"build/debug\\" /Fd"build/debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CalibrateClass.cpp Plugin.cpp
+         Plugin.cpp
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\xlocale(337): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         CalibrateClass.cpp
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\xlocale(337): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\projects\unityplugin\simplestpluginexample\vs2008plugin\visualstudio\calibrateclass.cpp(66): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\projects\unityplugin\simplestpluginexample\vs2008plugin\visualstudio\calibrateclass.cpp(64): warning C4101: 'j' : unreferenced local variable
+         Generating Code...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\build/debug\ASimplePlugin.dll) does not match the Linker's OutputFile property value (C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\build\debug\UnityTexture.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(ASimplePlugin) does not match the Linker's OutputFile property value (UnityTexture). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"build/debug\UnityTexture.dll" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc12\lib opencv_core2410d.lib opencv_highgui2410d.lib opencv_calib3d2410d.lib opencv_imgproc2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"build/debug\TexturePlugin.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"build/debug\TexturePlugin.lib" /MACHINE:X86 /SAFESEH /DLL build/debug\CalibrateClass.obj
+         build/debug\Plugin.obj
+     1>CalibrateClass.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+            Creating library build/debug\TexturePlugin.lib and object build/debug\TexturePlugin.exp
+         TexturePlugin.vcxproj -> C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\build/debug\ASimplePlugin.dll
+       PostBuildEvent:
+         xcopy "C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\build\Debug\UnityTexture.dll" "C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\..\..\..\UnityProject\Assets\Plugins\x86" /Y
+         :VCEnd
+         C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\build\Debug\UnityTexture.dll
+         1 File(s) copied
+     1>Done Building Project "C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\TexturePlugin.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.46

@@ -1,0 +1,11 @@
+﻿Build started 23/10/2014 12:41:30.
+     1>Project "C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\ConsoleTester\ConsoleTester.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleTester.cpp
+         ConsoleTester.cpp
+     1>c:\projects\unityplugin\simplestpluginexample\vs2008plugin\visualstudio\consoletester\consoletester.cpp(9): error C3861: 'PrintANumber': identifier not found
+     1>Done Building Project "C:\Projects\UnityPlugin\SimplestPluginExample\VS2008Plugin\VisualStudio\ConsoleTester\ConsoleTester.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.09
