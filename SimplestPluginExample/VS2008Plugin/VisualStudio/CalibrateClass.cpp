@@ -1,13 +1,6 @@
 // in myclass.cpp
 #include "CalibrateClass.h"
-#include "opencv2/calib3d/calib3d.hpp"
 
-#include <vector>
-#include <stdio.h>
-#include <opencv2/opencv.hpp>
-
-using namespace cv;
-using namespace std;
 
 void fprintMatrix(Mat matrix, string name);  
 void fprintfVectorMat(vector< Mat> matrix, string name); 
@@ -55,6 +48,32 @@ int CalibrateClass::MyFunction()
 	fprintfVectorMat(tvecs, "translation.txt");
 
 	return im.rows;
+}
+
+int CalibrateClass::CalibrateFunction(std::vector<cv::Point3f> inputObjectPoints, std::vector<cv::Point2f> inputImagePoints, int rows, int cols, double* result)
+{
+	std::vector<std::vector<cv::Point3f> > objectPoints;
+	objectPoints.push_back(inputObjectPoints);
+
+	std::vector<std::vector<cv::Point2f> > imagePoints;
+	imagePoints.push_back(inputImagePoints);
+
+	vector< Mat> rvecs, tvecs;
+	Mat distortion_coeffs(8, 1, CV_64F);
+	Mat1d cameraMatrix = (Mat1d(3, 3) <<
+		300, 0, 50,
+		0, 300, 100,
+		0, 0, 1);
+
+	int flags = CV_CALIB_USE_INTRINSIC_GUESS;
+
+	cv::calibrateCamera(objectPoints, imagePoints, cv::Size2i(rows, cols), cameraMatrix, distortion_coeffs, rvecs, tvecs, flags);
+
+	for (int i = 0; i < 9; i++) {
+		result[i] = cameraMatrix.at<double>(i);
+	}
+
+	return 0;
 }
 
 void fprintfVectorMat(vector< Mat> matrix, string name)
